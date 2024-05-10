@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chats"
+        android:title="Чаты"
+        android:icon="@drawable/chats"
+        />
+    <item
+        android:id="@+id/add_chat"
+        android:title="Добавить чат"
+        android:icon="@drawable/add_chat"
+        />
+    <item
+        android:id="@+id/prof"
+        android:title="Профиль"
+        android:icon="@drawable/prof"
+        />
+
+</menu>
