@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348244079297",
+    "firebase_url": "https://chad-dc858-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chad-dc858",
+    "storage_bucket": "chad-dc858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348244079297:android:f8622cc0e9e3966be6da40",
+        "android_client_info": {
+          "package_name": "com.giga.messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIp5bbzzpzkzFuzTkLuT5aNVcw-vKhgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
